@@ -1,6 +1,6 @@
 ## Cold &amp; quiet system
 
-For now, there is nothing. Please come back later
+For now there is nothing. Please come back later
 
 ### Repos
 
