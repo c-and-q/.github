@@ -8,4 +8,6 @@ For now there is nothing. Please come back later
 
 ### Tools
 
-[Updated pimoroni-phew](https://github.com/c-and-q/phew)
+[Updated](https://github.com/c-and-q/phew) pimoroni-phew
+
+[https://github.com/c-and-q/cq-logging.git](logger) extracted from pimoroni-phew
